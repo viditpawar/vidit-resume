@@ -1,7 +1,0 @@
-baseURL: "/"
-languageCode: "en-us"
-title: "My Resume"
-theme: resume-a4
-
-contentDir: content
-dataDir: data
